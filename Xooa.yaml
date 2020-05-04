@@ -61,3 +61,31 @@ Apps:
     language: solidity
     truffle: true
     README: https://github.com/Xooa/CI-Test-SmartContract/blob/master/get-set/README.md
+    
+  FabCar-JavaScript-Contract:
+    Name: FabCar-JavaScript-Contract
+    Description: FabCar Test Smart Contract in JavaScript
+    path: /fabcar-javascript/
+    language: node
+    README: https://github.com/Xooa/CI-Test-SmartContract/blob/master/get-set/README.md
+    
+  FabCar-Java-Contract:
+    Name: FabCar-Java-Contract
+    Description: FabCar Test Smart Contract in Java
+    path: /fabcar-java/
+    language: java
+    README: https://github.com/Xooa/CI-Test-SmartContract/blob/master/get-set/README.md
+
+  FabCar-JavaScript-lowlevel:
+    Name: FabCar-JavaScript-Lowlevel
+    Description: FabCar Test Smart Contract in JavaScript-Lowlevel
+    path: /fabcar-javascript-lowlevel/
+    language: node
+    README: https://github.com/Xooa/CI-Test-SmartContract/blob/master/get-set/README.md
+    
+  FabCar-GoLang-lowlevel:
+    Name: FabCar-GoLang-Lowlevel
+    Description: FabCar Test Smart Contract in GoLang
+    path: /fabcar-golang/
+    language: go
+    README: https://github.com/Xooa/CI-Test-SmartContract/blob/master/get-set/README.md
